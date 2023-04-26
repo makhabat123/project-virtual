@@ -1,0 +1,13 @@
+
+@media(max-width: 1400px){
+.container {
+    width: 85%;
+}
+    .service-block {
+        width: 340px;
+        height: 316px;
+    }
+}
+@media(max-width: 1200px){
+
+}
